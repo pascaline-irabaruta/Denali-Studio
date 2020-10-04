@@ -18,22 +18,34 @@ body{
   background-image: url("../assets/backgrounds/h_img.jpg");
   background-size: cover;
 }
-h2 {
-  text-align: center;
+.oneCard {
+  position: relative;
+  overflow: auto;
+}
+.oneCard img{
+	width: 100%;
+	height: auto;
 }
 #m {
   padding-top: 200px;
   padding-bottom: 10px;
 }
-.about {
-  padding:30px;
-  text-align:center;
-}
-.about {
-  padding:30px;
-  text-align:center;
-}
 
+h2 {
+
+  text-align: center;
+}
+span {
+  font-size: 8px;
+}
+.about {
+  padding:30px;
+  text-align:center;
+}
+#third {
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  background-size: cover;
+}
 .service {
   padding: 80px;
 }
@@ -46,11 +58,8 @@ h2 {
   text-align: center;
   color: white;
 }
-#third {
-  background-image: url("../assets/backgrounds/s_image.jpg");
-  background-size: cover;
-}
-what-we-do {
+
+.what-we-do {
   padding-left: 40%;
   padding-right: 40%;
   padding-top: 30px;
@@ -91,6 +100,7 @@ h4 {
   padding-right: 36%;
 }
 .col-sm-4 #de {
+  /* text-align: center; */
   padding-top: 2px;
   padding-left: 36%;
   padding-right: 36%;
