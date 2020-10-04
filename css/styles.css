@@ -46,6 +46,10 @@ h2 {
   text-align: center;
   color: white;
 }
+#third {
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  background-size: cover;
+}
 what-we-do {
   padding-left: 40%;
   padding-right: 40%;
