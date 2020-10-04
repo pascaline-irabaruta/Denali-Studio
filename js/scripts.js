@@ -1,5 +1,68 @@
 $(document).ready(function(){
-
+$( '#porty' ).hover(
+  function() {
+    $('#txt1').show();
+  }
+  , function() {
+    $('#txt1').hide();
+  }
+);
+$( '#porty2' ).hover(
+  function() {
+    $('#txt2').show();
+  }
+  , function() {
+    $('#txt2').hide();
+  }
+);
+$( '#porty3' ).hover(
+  function() {
+    $('#txt3').show();
+  }
+  , function() {
+    $('#txt3').hide();
+  }
+);
+$( '#porty4' ).hover(
+  function() {
+    $('#txt4').show();
+  }
+  , function() {
+    $('#txt4').hide();
+  }
+);
+$( '#porty5' ).hover(
+  function() {
+    $('#txt5').show();
+  }
+  , function() {
+    $('#txt5').hide();
+  }
+);
+$( '#porty6' ).hover(
+  function() {
+    $('#txt6').show();
+  }
+  , function() {
+    $('#txt6').hide();
+  }
+);
+$( '#porty7' ).hover(
+  function() {
+    $('#txt7').show();
+  }
+  , function() {
+    $('#txt7').hide();
+  }
+);
+$( '#porty8' ).hover(
+  function() {
+    $('#txt8').show();
+  }
+  , function() {
+    $('#txt8').hide();
+  }
+);
 $( '#ima' ).click(
   function() {
     $('.designs').show();
