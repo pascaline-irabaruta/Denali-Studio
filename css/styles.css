@@ -46,3 +46,32 @@ h2 {
   text-align: center;
   color: white;
 }
+what-we-do {
+  padding-left: 40%;
+  padding-right: 40%;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.service-icon {
+  padding:30px;
+  text-align: center;
+}
+h4 {
+  font-weight: bolder;
+}
+.designs {
+  display: none;
+  text-align: center;
+  padding: 10px;
+}
+.dev {
+  display: none;
+  text-align: center;
+  padding: 10px;
+}
+.products {
+  display: none;
+  text-align: center;
+  padding: 10px;
+}
