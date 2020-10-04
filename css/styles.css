@@ -29,3 +29,20 @@ h2 {
   padding:30px;
   text-align:center;
 }
+.about {
+  padding:30px;
+  text-align:center;
+}
+
+.service {
+  padding: 80px;
+}
+
+.service h2 {
+  text-align: center;
+  color: white;
+}
+.service p {
+  text-align: center;
+  color: white;
+}
