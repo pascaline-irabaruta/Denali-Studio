@@ -19,6 +19,13 @@ body{
   background-size: cover;
 }
 h2 {
-
   text-align: center;
+}
+#m {
+  padding-top: 200px;
+  padding-bottom: 10px;
+}
+.about {
+  padding:30px;
+  text-align:center;
 }
