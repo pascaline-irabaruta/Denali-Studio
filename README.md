@@ -28,8 +28,8 @@ This document will get you a copy of the project up and running on your local ma
 https://pascaline-irabaruta.github.io/Denali-Studio/
 
 ### Contact Information
-Email: pascyirabaruta456@gmail.com
-Tel: +250789160608
+* **Email: pascyirabaruta456@gmail.com
+* **Tel: +250789160608
 
 ### License and Copyright
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
