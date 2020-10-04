@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.welcome {
+  text-align: center;
+  color: white;
+  padding-top: 200px;
+  padding-left: 36%;
+  padding-right: 36%;
+  font-size: 15px;
+}
+.welcome span {
+  padding-top: 5px;
+}
+#first{
+  background-image: url("../assets/backgrounds/h_img.jpg");
+  background-size: cover;
+}
