@@ -111,6 +111,9 @@ $( '.products' ).click(
     $('#pro').show();
   }
 );
-
+$("form").submit(function(){
+    var uname= $("input#names").val();
+    alert(uname+" we have received your message. Thank you for reaching out to us.");
+  });
 
 });
